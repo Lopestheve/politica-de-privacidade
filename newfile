@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidade – Controle Financeiro</title>
+  <style>
+    body { font-family: Arial; padding: 20px; max-width: 900px; margin: auto; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+
+<h1>Política de Privacidade – Controle Financeiro</h1>
+
+<p>Esta Política de Privacidade descreve como o aplicativo <strong>Controle Financeiro</strong> (desenvolvido por <strong>Stheve Lopes</strong>) coleta, usa e protege as informações dos usuários.</p>
+
+<h2>1. Coleta de Informações</h2>
+<p>O aplicativo NÃO coleta informações pessoais sensíveis, como nome, CPF, endereço, contatos ou localização.</p>
+<p>Os únicos dados tratados são:</p>
+<ul>
+  <li>Valores de despesas</li>
+  <li>Informações inseridas manualmente pelo usuário no app</li>
+</ul>
+<p>Essas informações ficam armazenadas SOMENTE no dispositivo do usuário.</p>
+
+<h2>2. Uso dos Dados</h2>
+<p>Os dados informados servem exclusivamente para:</p>
+<ul>
+  <li>Organizar finanças pessoais</li>
+  <li>Exibir gráficos e relatórios dentro do app</li>
+</ul>
+
+<h2>3. Compartilhamento de Dados</h2>
+<p><strong>Não compartilhamos, vendemos ou enviamos dados de usuários para terceiros.</strong></p>
+
+<h2>4. Armazenamento dos Dados</h2>
+<p>Todos os dados permanecem no dispositivo do usuário. O app não utiliza servidores externos para armazenar informações.</p>
+
+<h2>5. Segurança</h2>
+<p>Utilizamos boas práticas para garantir que as informações permanecem protegidas localmente no dispositivo.</p>
+
+<h2>6. Permissões Utilizadas</h2>
+<p>O aplicativo não solicita permissões sensíveis do Android além do mínimo necessário para o funcionamento interno.</p>
+
+<h2>7. Privacidade de Crianças</h2>
+<p>O aplicativo não é direcionado para crianças menores de 13 anos e não coleta dados de menores.</p>
+
+<h2>8. Alterações na Política</h2>
+<p>Podemos atualizar esta política periodicamente. A versão mais recente estará sempre disponível nesta página.</p>
+
+<h2>9. Contato</h2>
+<p>Para dúvidas, entre em contato:</p>
+<p><strong>E-mail:</strong> stheve.lrp@gmail.com</p>
+
+</body>
+</html>
